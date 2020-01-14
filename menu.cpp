@@ -23,5 +23,5 @@ void menu(int x, int y)
 		default: std::cout<<"Wybrano niewlasciwa opcje";
 	}
 
-
+cout<<"hello world";
 }
